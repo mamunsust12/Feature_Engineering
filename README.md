@@ -4,7 +4,7 @@
 Common Issues in Feature Engineering
 ------------------------------------
 
-1. Encoing - Categorical to Numerical conversion : Label Encoding OneHot Encoding
+1. Encoing - Categorical to Numerical conversion : Label Encoding, OneHot Encoding
 
 2. Outlien Handling - Detection and filling
 
